@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images/items">
+        <file alias="apple">images/items/apple.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file alias="bite_sound">sound/bite_sound.wav</file>
+    </qresource>
+</RCC>
